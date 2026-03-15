@@ -14,24 +14,4 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="read.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="look.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="codec.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="para.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="write.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="filter.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
 </Project>
