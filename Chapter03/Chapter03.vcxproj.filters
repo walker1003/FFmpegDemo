@@ -14,4 +14,44 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="fps.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="timebase.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="timestamp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="copyfile.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="peelaudio.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="splitvideo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mergeaudio.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recode.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recode2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mergevideo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mux264.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="concat_video.txt">
+      <Filter>源文件</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
