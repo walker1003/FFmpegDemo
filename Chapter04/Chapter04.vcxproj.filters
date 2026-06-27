@@ -24,5 +24,14 @@
     <ClCompile Include="savejpg_sws.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="savepng.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="savebmp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="savegif.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
