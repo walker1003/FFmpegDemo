@@ -36,5 +36,8 @@
     <ClCompile Include="image2video.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="writeyuv.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
